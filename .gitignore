@@ -2,3 +2,4 @@ agent-env/
 .env
 logs/
 __pycache__/
+workspace/
