@@ -1,0 +1,28 @@
+# YOLO 数据集配置
+
+# 使用绝对路径，避免 ultralytics 把相对路径解析到全局 datasets 目录
+path: C:/Users/28687/Desktop/X/yolo_train/dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+# 类别信息
+nc: 2  # 类别数量
+names:
+  0: RYmilk
+  1: MNmilk
+
+# 目录结构
+# datasets/my_dataset/
+# ├── images/
+# │   ├── train/
+# │   ├── val/
+# │   └── test/
+# └── labels/
+#     ├── train/
+#     ├── val/
+#     └── test/
+
+# 标注格式: class_id center_x center_y width height
+# 示例: 0 0.5 0.5 0.3 0.4
