@@ -57,7 +57,7 @@ if __name__ == "__main__":
     
     messages = [
         {"role": "system", "content": "你是一个有帮助的助手。"},
-        {"role": "user", "content": "你好，请用一句话介绍自己。"},
+        {"role": "user", "content": "1234567 × 7654321 等于多少？只回数字"},
     ]
     
     reply = client.chat(messages)
