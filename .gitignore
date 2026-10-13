@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# 桌宠工程（依赖与构建产物不入库）
+coopanion/node_modules/
+coopanion/build/
+
+# 其他 AI 工具的工作目录
+.workbuddy/
+
+# shim 运行时产物
+shim/run.log
+shim/run.err
+shim/last-input.json
+*.log
+*.err
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / 包管理器
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+.npm/
