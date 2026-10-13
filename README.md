@@ -5,7 +5,7 @@
 | 目录 | 项目 | 说明 |
 |---|---|---|
 | `harness/` | 华小牛 Agent Harness | 自己搭的 Agent：LLM 客户端封装、工具系统（计算器 / 文件读写 / 网络请求）、对话记忆、ReAct 主循环 |
-| `myllm-tring/` | MyLLM Tring | 待合入（需联网从 GitHub 拉取） |
+| `myllm-tring/` | MyLLM Tring | 另一个 LLM 相关作业，来自 [Mr1es/MyLLMTring](https://github.com/Mr1es/MyLLMTring) |
 | `yolo/` | yolo | 目标检测相关实验，源自 [Linmoqian/yolo_train](https://github.com/Linmoqian/yolo_train) |
 
 ## harness 怎么跑
