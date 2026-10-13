@@ -1,0 +1,40 @@
+{
+  "version": "4.1.0",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "RYmilk",
+      "score": null,
+      "points": [
+        [
+          416.923076923077,
+          488.7564102564102
+        ],
+        [
+          982.3076923076923,
+          488.7564102564102
+        ],
+        [
+          982.3076923076923,
+          1201.5769230769229
+        ],
+        [
+          416.923076923077,
+          1201.5769230769229
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "15.jpg",
+  "imageData": null,
+  "imageHeight": 1707,
+  "imageWidth": 1280
+}

@@ -1,0 +1,40 @@
+{
+  "version": "4.1.0",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "MNmilk",
+      "score": null,
+      "points": [
+        [
+          335.6521739130435,
+          540.4347826086956
+        ],
+        [
+          777.6811594202895,
+          540.4347826086956
+        ],
+        [
+          777.6811594202895,
+          1204.2028985507243
+        ],
+        [
+          335.6521739130435,
+          1204.2028985507243
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "30.jpg",
+  "imageData": null,
+  "imageHeight": 1920,
+  "imageWidth": 1080
+}
